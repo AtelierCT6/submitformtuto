@@ -1,6 +1,7 @@
 Voici le résultat du formulaire de création de compte et login en Vue JS 3 réalisé par le youtuber The Net Ninja
 
 Lien vers la vidéo ---> https://www.youtube.com/watch?v=ixOcve5PX-Q
+
 Playlist du tuto complet ---> https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
 
 Ce tuto m'aura été très utile ayant choisi le Framework Vue JS 3 en tant qu'étudiant chez Openclassrooms pour la réalisation du P7 dans le cursus Intégrateur Web
